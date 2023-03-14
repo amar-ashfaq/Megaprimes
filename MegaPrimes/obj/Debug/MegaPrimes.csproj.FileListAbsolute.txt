@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MegaPrimes\bin\Debug\MegaPrimes.exe.config
+C:\Users\Admin\source\repos\MegaPrimes\bin\Debug\MegaPrimes.exe
+C:\Users\Admin\source\repos\MegaPrimes\bin\Debug\MegaPrimes.pdb
+C:\Users\Admin\source\repos\MegaPrimes\obj\Debug\MegaPrimes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MegaPrimes\obj\Debug\MegaPrimes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MegaPrimes\obj\Debug\MegaPrimes.exe
+C:\Users\Admin\source\repos\MegaPrimes\obj\Debug\MegaPrimes.pdb
